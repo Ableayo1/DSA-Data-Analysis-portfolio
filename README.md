@@ -20,8 +20,7 @@ SELECT a,b,c
 Where A > 15
 ```
 
-chart (1).png
+### DATA
 
 
-Go to file
 
