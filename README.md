@@ -1,10 +1,13 @@
 # DSA-Data-Analysis-portfolio
-This is where i started my portfolio building while taking DATA Analysis with DSA
-## MARK DOWN
+`#0969DA` This is where i started my portfolio building while taking DATA Analysis with DSA
+
+<Details> 
+
+<summary> ## MARK DOWN </summary>
 
 I hope to have several projects on this portfolio. I seem to be getting the hang of the teaching.
 
-### Data Source
+<summary>  ### Data Source </summary>
 The data sources will be addded in the document as we proceed
 
 ### Tools Used
@@ -15,6 +18,7 @@ The data sources will be addded in the document as we proceed
 - Time
 - Github
 
+  
 ``` SQL
 SELECT a,b,c
 Where A > 15
